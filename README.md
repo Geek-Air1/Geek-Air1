@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Sadhu
 
-💻 SDE | 🚀 Product Builder | 🌐 Freelancer  
+Sales Rep | 🚀 Product Builder | 🌐 Freelancer  
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.sadhu1007@gmail.com)  
 [![GitHub followers](https://img.shields.io/github/followers/Geek-Air1?label=Follow&style=social)](https://github.com/Geek-Air1)  
